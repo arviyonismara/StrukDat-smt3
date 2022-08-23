@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1633499738 source:c:\users\bima\onedrive\project\struktur-data\praktikum5\kasus1\main.cpp
+	"header.h"
+
+1633497577 c:\users\bima\onedrive\project\struktur-data\praktikum5\kasus1\header.h
+	<iostream>
+
+1633500436 source:c:\users\bima\onedrive\project\struktur-data\praktikum5\kasus1\pustaka.cpp
+	"header.h"
+
